@@ -1,0 +1,33 @@
+h2{
+    text-align: center;
+    padding: 70px;
+}
+.ct{
+    width: 100%;
+    height: 60vh;
+    background-color:   hwb(49 18% 0%)  ;
+}
+.cart-t{
+    display: flex;
+    /* justify-content:space-around;  */
+    margin-inline: 90px;
+    
+      
+}
+.cart-img{
+    width: 240px;
+    height: 270px;  
+    margin-top: 70px;
+    margin-inline: 30px;
+    
+}
+
+
+.cart-img img{
+    width: 200px;
+    height: 250px;
+}
+.obj-with{
+    max-width: 1280px;
+    margin: auto;
+}

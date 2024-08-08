@@ -1,0 +1,14 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    padding:80px ;
+}
+.footer-w   {
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    
+}
+.foot-text p{
+    padding: 3px;
+}

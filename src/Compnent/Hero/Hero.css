@@ -1,0 +1,32 @@
+.hero{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.text-w{
+    width: 500px;
+    margin-top: 24px;
+}
+.text-w h1{
+    font-size: 36px;
+    font-weight:700;
+}
+.text-w p{
+    margin-top: 12px;
+    font-size: 16px;
+    
+}
+button{
+    padding: 8px 10px;
+    margin-top: 12px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.img-w img{
+    width: 400px;
+    height: 250p
+}
